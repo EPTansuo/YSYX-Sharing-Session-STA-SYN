@@ -27,5 +27,9 @@
 
 ## 幻灯片
 
->  幻灯片下载: [静态时序分析与逻辑综合.pdf](./files/静态时序分析与逻辑综合.pdf)
+> 幻灯片下载: [静态时序分析与逻辑综合.pdf](./files/静态时序分析与逻辑综合.pdf)
 
+
+## 视频
+
+> [https://www.bilibili.com/video/BV1zxMtzmEqC](https://www.bilibili.com/video/BV1zxMtzmEqC/)
